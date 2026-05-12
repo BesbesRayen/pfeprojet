@@ -1,0 +1,13 @@
+node_modules/ 
+.env 
+dist/ 
+build/ 
+*.log 
+.idea/ 
+.vscode/ 
+creadiTn/uploads/ 
+node_modules/ 
+.env 
+target/ 
+build/ 
+dist/ 
